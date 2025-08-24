@@ -6,5 +6,5 @@ class Program
 	{
 		Console.WriteLine("Hello, World!");
 		ganduman
-	}
+	}statics,mksdm
 }
